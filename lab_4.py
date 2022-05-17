@@ -12,4 +12,3 @@ break statment.
 if the user could not guess the correct answer within the max_tries, then print
 "You have used up your allotment of guesses." then print "The correct answer is "California".
 """
-
